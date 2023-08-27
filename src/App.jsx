@@ -30,7 +30,7 @@ function App() {
             delaySpeed={1000} />
            </h1>
            <div className={show}>
-           <a href="https://www.facebook.com/OgzhnER"target="_blank"> <img src="images\icons8-facebook.svg" alt="" /></a>
+           <a href="https://www.facebook.com/OgzhnER"target="_blank"> <img src="./images\icons8-facebook.svg" alt="" /></a>
            <a href="https://www.instagram.com/ogzhner/"target="_blank"> <img src="images\icons8-instagram.svg" alt="" /></a>
           <a href="https://www.linkedin.com/in/ogzhner/"target="_blank">  <img src="images\icons8-linkedin.svg" alt="" /></a>
            </div>
