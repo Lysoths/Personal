@@ -1,0 +1,38 @@
+body {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  height: 100vh;
+}
+
+input {
+  border:1px solid white;
+}
+
+.App {
+  display:flex;
+  gap:10px;
+}
+
+.deneme {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.notshow {
+  
+  opacity: 0;
+}
+.social-media{
+  transition:all .4s linear;
+  display:flex;
+  align-items: center;
+  gap:10px
+}
+
+.show {
+  opacity: 1;
+}
